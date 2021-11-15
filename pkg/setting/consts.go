@@ -21,6 +21,7 @@ const LocalConfig = "local.env"
 // envs
 const (
 	// common
+	ENVSystemAddress1           = "ADDRESS1"
 	ENVSystemAddress           = "ADDRESS"
 	ENVEnterprise              = "ENTERPRISE"
 	ENVMode                    = "MODE"
